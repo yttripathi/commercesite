@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mascara",
+      "price": 299,
+      "image": "https://placehold.co/600x450/f5f0f7/302c3d?text=Mascara"
+    },
+    {
+      "id": 2,
+      "name": "Eyeshadow Palette",
+      "price": 499,
+      "image": "https://placehold.co/600x450/f5f0f7/302c3d?text=Eyeshadow+Palette"
+    },
+    {
+      "id": 3,
+      "name": "Lipstick",
+      "price": 199,
+      "image": "https://placehold.co/600x450/f5f0f7/302c3d?text=Lipstick"
+    },
+    {
+      "id": 4,
+      "name": "Face Cream",
+      "price": 349,
+      "image": "https://placehold.co/600x450/f5f0f7/302c3d?text=Face+Cream"
+    }
+  ]
+}
